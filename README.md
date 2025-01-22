@@ -16,7 +16,7 @@ https://ontheline.github.io/otl-covenants/index-caption.html
 ## Credits
 - Property deed research in Connecticut towns:
   - Katie Campbell: West Hartford, Summer 2010
-  - David K. Ware: Manchester (see “The Black and White of Greenway: Racially Restrictive Covenants in Manchester, Connecticut,” 2020, https://ssrn.com/abstract=3546228), Newington 2023, East Haddam 2024, East Hampton 2024
+  - David K. Ware: Manchester (see “The Black and White of Greenway: Racially Restrictive Covenants in Manchester, Connecticut,” 2020, https://ssrn.com/abstract=3546228), Newington 2023, East Haddam 2024, East Hampton 2024, East Hartford 2025
   - June Gold: Hamden, 2023-24; Woodbridge 2024; Cheshire 2024
 - Leaflet map by Ilya Ilyakou and Jack Dougherty, which replaces the 2012 UConn MAGIC Google Map http://magic.lib.uconn.edu/otl/doclink_covenant.html
 - If you know of other restrictive covenants by race or religion, anywhere in Connecticut, contact the author [jack.dougherty@trincoll.edu](mailto:jack.dougherty@trincoll.edu)
@@ -41,6 +41,14 @@ https://ontheline.github.io/otl-covenants/index-caption.html
 
 ### Additional leads to follow up on
 see working Google Sheet https://docs.google.com/spreadsheets/d/1RtxNexc0S8gZyZVimdwM0FO-kq8xPw3HMaP2Ku5a8KI/edit#gid=0
+
+## TEMP notes for East Hartford maps
+- Bellew Terrace (Terry Rd, Wind Rd, Burnside Ave), 2nd map image has matching label, but 1st map image is labeled Revised Map of Beechmont Manor 1926 (different subdivision?); NEED DEED
+- Shannon Heights (Forbes St, north side lots 1-3, Olaf Benson, 4-6, then south side 7-16 ) 1st map image has matching label, but 2nd image is different subdivision?
+- Westview Drive area (our label since no subdivision named) Property of Richard J. Devitt, north side of Silver Lane (Ridegewood Rd, Westview Drive, Silver Lane); 3rd map image has matching label
+- Stanley and Prospect St area (our label since no subdivision named) Property of Estate of Charles S. Barnes, 1926, bought by MJ Desmond Construction Company, Martin J. Desmond, around 73 Stanley St; 1926 map on p. 36 (Stanley St & Prospect St), very similar to 1927 map on p. 132
+- Knollwood Road area (no subdivision name), land by Richard J. Devitt, specifically 64 Knollwood Rd; NEED MAP of subdivision area beyond one home
+- Sunset Ridge Country Club, along Kennedy St; BEST GUESS of map of subdivision area, but unsure what property is included due to limited description
 
 ## How to update:
 - Overview: draw in GeoJson.io, data entry in Google Sheet, join in MapShaper, republish in Datawrapper, save to GitHub
