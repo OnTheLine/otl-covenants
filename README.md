@@ -42,13 +42,13 @@ https://ontheline.github.io/otl-covenants/index-caption.html
 ### Additional leads to follow up on
 see working Google Sheet https://docs.google.com/spreadsheets/d/1RtxNexc0S8gZyZVimdwM0FO-kq8xPw3HMaP2Ku5a8KI/edit#gid=0
 
-## TEMP notes for East Hartford maps
-- Bellew Terrace (Terry Rd, Wind Rd, Burnside Ave), 2nd map image has matching label, but 1st map image is labeled Revised Map of Beechmont Manor 1926 (different subdivision?); NEED DEED
-- Shannon Heights (Forbes St, north side lots 1-3, Olaf Benson, 4-6, then south side 7-16 ) 1st map image has matching label, but 2nd image is different subdivision?
-- Westview Drive area (our label since no subdivision named) Property of Richard J. Devitt, north side of Silver Lane (Ridegewood Rd, Westview Drive, Silver Lane); 3rd map image has matching label
-- Stanley and Prospect St area (our label since no subdivision named) Property of Estate of Charles S. Barnes, 1926, bought by MJ Desmond Construction Company, Martin J. Desmond, around 73 Stanley St; 1926 map on p. 36 (Stanley St & Prospect St), very similar to 1927 map on p. 132
-- Knollwood Road area (no subdivision name), land by Richard J. Devitt, specifically 64 Knollwood Rd; NEED MAP of subdivision area beyond one home
-- Sunset Ridge Country Club, along Kennedy St; BEST GUESS of map of subdivision area, but unsure what property is included due to limited description
+## East Hartford TEMP notes
+- Bellew Terrace, 1929 deed with subdivision map (Terry Rd, Wind Rd, Burnside Ave), ready for Jack to draw boundaries
+- Knollwood Road (currently no subdivision name), 1941 deed from Richard J. Devitt to Arthur and Ruth Dinsmore for 64 Knollwood Road. TODO: Jack will search newspapers for any reference to Knollwood or Devitt to find clues for a subdivision map in property records, to extend our finding beyond the one listed home, and draw boundaries
+- Shannon Heights, 1938 deed with subdivision map (Forbes St, north side lots 1-3, Olaf Benson, 4-6, then south side lots 7-16), ready for Jack to draw boundaries
+- Stanley and Prospect St area (currently no subdivision named), 1926 deed with 1926 and 1927 maps of "Property of Estate of Charles S. Barnes," bought by MJ Desmond Construction Company, Martin J. Desmond, around 73 Stanley St. TODO: Jack to search newspapers for any subdivision name, but ready to draw boundaries
+- Sunset Ridge (need to confirm if this is the subdivisio name), 1930 deed from Sunset Ridge Country Club to Jennie Higbie, for one parcel of land along Kennedy St, but unclear if this is part of a larger subdivision. Map from property records represents best guess so far. TODO: Jack to research newspapers for any clues about Sunset Ridge subdivision, in order to confirm map (or find more maps in EH property records online) to draw boundaries
+- Westview Drive (currently no subdivision name), 1942 deed with subdivision map labeled "Property of Richard J. Devitt" Ridgewood Rd, Westview Drive, Silver Lane), ready for Jack to draw boundaries
 
 ## How to update:
 - Overview: draw in GeoJson.io, data entry in Google Sheet, join in MapShaper, republish in Datawrapper, save to GitHub
