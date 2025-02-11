@@ -16,7 +16,7 @@ https://ontheline.github.io/otl-covenants/index-caption.html
 ## Credits
 - Property deed research in Connecticut towns:
   - Katie Campbell: West Hartford, Summer 2010
-  - David K. Ware: Manchester (see “The Black and White of Greenway: Racially Restrictive Covenants in Manchester, Connecticut,” 2020, https://ssrn.com/abstract=3546228), Newington 2023, East Haddam 2024, East Hampton 2024, East Hartford 2025
+  - David K. Ware: Manchester (see “The Black and White of Greenway: Racially Restrictive Covenants in Manchester, Connecticut,” 2020, https://ssrn.com/abstract=3546228), Newington 2023, East Haddam 2024, East Hampton 2024, East Hartford 2025, Columbia 2025
   - June Gold: Hamden, 2023-24; Woodbridge 2024; Cheshire 2024
 - Leaflet map by Ilya Ilyakou and Jack Dougherty, which replaces the 2012 UConn MAGIC Google Map http://magic.lib.uconn.edu/otl/doclink_covenant.html
 - If you know of other restrictive covenants by race or religion, anywhere in Connecticut, contact the author [jack.dougherty@trincoll.edu](mailto:jack.dougherty@trincoll.edu)
