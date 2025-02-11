@@ -1,5 +1,5 @@
 # otl-covenants
-Leaflet map of race restrictive covenants in property deeds in Connecticut, 1930s-50s
+Leaflet map of racist property covenants in Connecticut town land records, 1920s-50s
 
 ## Demo with caption
 https://ontheline.github.io/otl-covenants/index-caption.html
