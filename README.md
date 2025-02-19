@@ -42,9 +42,27 @@ https://ontheline.github.io/otl-covenants/index-caption.html
 ### Additional leads to follow up on
 see working Google Sheet https://docs.google.com/spreadsheets/d/1RtxNexc0S8gZyZVimdwM0FO-kq8xPw3HMaP2Ku5a8KI/edit#gid=0
 
-## East Hartford TEMP notes
+### East Hartford racist covenants notes
+- Bellew Terrace, 1929 deed by Terrence Shannon and Niels Wind with map 48 (Terry Rd, Wind Rd, Burnside Ave), ready to draw boundaries
+- Brookfield Village, 1940 deed (WAITING FOR COPY FROM DAVE) from August Schultz to Anna Fink, Volume 120, Page 241, with map 37, for 47 lots
+- Forest Village, 1939 deed (WAITING FOR DEED FROM DAVE) and maps 56, 75 expanded to 45 lots (Forbes St & Forest St), by Terrence Shannon and Sons, ready to draw boundaries
+- Knollwood Road, (even-numbered east side), 1941 deed from Richard J. Devitt to Arthur and Ruth Dinsmore for 64 Knollwood Road, with map 21 (Sunset Estates) also appears to show extent of Devitt's Knollwood property at the time. Ready to draw boundaries (BUT WAIT in case Dave finds better map); Devitt was EH GOP legislator in 1920s
+- Shannon Heights, 1938 deed by Terrence Shannon with early subdivision map 50 (Forbes St lots 1-3, Olaf Benson, 4-6, then lots 7-16); 1937 ad photo shows 3 recently completed and 3 under construction (which in Google Street view appear to be 541, 537, 533 Forbes St, on east side just south of Balsam Rd); 1938 news clip says building permits for 518, 522, 547 Forbes St. NEED clearer location. ASKED Dave to locate 1938 map W, which is not online
+- Stanley Street, 1926 deed with maps 36, 132 of "Property of Estate of Charles S. Barnes," bought by MJ Desmond Construction Company, Martin J. Desmond, around 73 Stanley St. No more details found in Newspapers.com search; ready to draw boundaries
+- Sunset Ridge, 1930 deed from Sunset Ridge Country Club to Jennie Higbie, for one parcel of land along Kennedy St (old name for Ridgewood Rd). "Causasian" restriction openly advertised in 1930-05-25 Courant, describing about 75 lots, but no clear map. ASKED DAVE to look for subdivision map because currently we can only estimate boundaries
+- Westview Drive, 1942 deed with map 73, Property of Richard J. Devitt (Ridgewood Rd, Westview Drive, Silver Lane), ready for Jack to draw boundaries, 25 plots
+- Willow Brook Gardens, 1941 deed (WAITING FOR COPY FROM DAVE), Volume 124, Page 383, with map 61, ready to draw boundaries
+
+### East Hartford search in-progress
+- Sunset Estates (odd-numbered west side of Knollwood, plus Birchwood), owned by Fred Holland, 1930 map 21; WAITING for Dave to search
+
+### No East Hartford restrictive covenants found
+- Laraia Street building lots, 1924 map 28 (Laraia St at Bliss St) by Terrence Shannon & Sons
+
+
+## East Hartford Questions
 1.  Does the Town of East Hartford have a map showing all of its subdivisions, similar to those posted on the wall by other towns? If yes, a photo of that map would be very helpful in our search.
-2. I found this online East Hartford Index of Maps and Surveys, in case it helps you with the questions described below. Most of these are available online, but not all.
+2. I found this online East Hartford Index of Maps and Surveys, in case it helps you with the questions described below. Most of these are available online, but not all. <https://www.easthartfordct.gov/sites/g/files/vyhlif9241/f/uploads/townmapindex_current.pdf>
 3. Sunset Ridge development. You already found a 1930 deed, and I found the 1930 Hartford Courant story, and I posted both in this PDF. The news story described 75 building lots in the development, but East Hartford online maps 79 and 80 are not very clear about its boundaries. If the Town has a better map of the Sunset Ridge development boundaries, please take a photo.
 4. Shannon Heights
 You already found a 1938 deed with a covenant, and I found the Town's online scan of map #50, dated 1937, and posted both of these items in this PDF. They point to the general area of Forbes St, probably near Balsam Road, but we need to be more specific. The Town's index also lists another Shannon Heights "map W", dated 1938, but there is no online image. If the Town has a copy of the map, would you please take a photo?
@@ -58,24 +76,7 @@ You already found a 1938 deed with a covenant, and I found the Town's online sca
 7. Sunset Estates (not to be confused with Sunset Ridge). I suspect that Sunset Estates development, created by Fred Holland beginning in 1930, *might* have had restrictive covenants because it is adjacent to Devitt's Knollwood Road development and news articles suggested he was considering his options.
   - Please check for covenants in any Sunset Estate properties, located on the odd-numbered west side of Knollwood Road and both sides of Birchwood Road, as shown in maps #21, #130, #138
 
-#### Notes
-- Bellew Terrace, 1929 deed with subdivision map (Terry Rd, Wind Rd, Burnside Ave), ready for Jack to draw boundaries. See news clips about Terrence Shannon construction and Niels Wind
-- Knollwood Road (currently no subdivision name), 1941 deed from Richard J. Devitt to Arthur and Ruth Dinsmore for 64 Knollwood Road. See news clips about Devitt as EH GOP legislator in 1920s; includes map 21 that shows extent of Devitt property
-  - Dave: I'm writing to ask for more info about Knollwood Road area in East Hartford so that we can better estimate the scope of the racist covenant.
-  - Previously, you found one racist covenant for 64 Knollwood Road (no subdivision name) in a 1941 deed from Richard J. Devitt to Arthur and Ruth Dinsmore.  
-  - In newspaper stories, I found several references to Devitt selling property on the even-numbered of Knollwood Road, which has no subdivision name so far, so I'm going to call it "Knollwood East Side"
-  - Also, Devitt built at least one home inside the adjacent "Sunset Estates" subdivision, owned by Fred Holland and located immediately to the west, as shown in the attached 1930 map. (You can see it says the east side of Knollwood is "Property of RJ Devitt")
-  - 1) Is there any evidence of additional racist covenants on Devitt's even-numbered "Knollwood East Side" homes, such as numbers 16, 22, 28, 34, 40, 50 Knollwood? If yes, then we can reasonably estimate that Devitt's entire subdivision was restricted this way.
-  - 2) Is there any evidence of racist covenants inside Sunset Estates (odd-numbered west side of Knollwood, plus Birchwood), owned by Fred Holland? If yes, then we can reasonably estimate that Holland's entire subdivision was restricted this way.
-- Shannon Heights, 1938 deed with subdivision map (Forbes St, north side lots 1-3, Olaf Benson, 4-6, then south side lots 7-16); 1937 ad photo shows 3 recently completed and 3 under construction (which in Google Street view appear to be 541, 537, 533 Forbes St, on east side just south of Balsam Rd); 1938 news clip says building permits for 518, 522, 547 Forbes St. See news clips about Terrence Shannon & Sons construction,   - Shannon Heights, we have 1937 map 50, but 1938 map W is not online
-- Stanley and Prospect St area (no formal subdivision name, so call it "Stanley Street"), 1926 deed with 1926 and 1927 maps of "Property of Estate of Charles S. Barnes," bought by MJ Desmond Construction Company, Martin J. Desmond, around 73 Stanley St. No more details found in Newspapers.com search; ready to draw boundaries
-- Sunset Ridge, 1930 deed from Sunset Ridge Country Club to Jennie Higbie, for one parcel of land along Kennedy St, "Causasian" restriction openly advertised in 1930-05-25 Courant, describing about 75 lots, but no clear map. Note that Kennedy Rd appears to be old name for Ridgewood Road. Jack can estimate map based on news clips but needs EH Town subdivision map, if it exists, for confirmation
-- Westview Drive (currently no subdivision name, so call it "Westview"), 1942 deed with subdivision map labeled "Property of Richard J. Devitt" Ridgewood Rd, Westview Drive, Silver Lane), ready for Jack to draw boundaries, 25 plots
-- TODO: investigate other Terrence Shannon & Sons subdivisions of this era
-  - Forest Village subdivision, 1939 map 56 (Forbes St & Forest St)
-  - Laraia Street building lots, 1924 map 28 (Laraia St at Bliss St)
 
-  - East Hartford Index of Maps <https://www.easthartfordct.gov/sites/g/files/vyhlif9241/f/uploads/townmapindex_current.pdf>
 
 ## How to update:
 - Overview: draw in GeoJson.io, data entry in Google Sheet, join in MapShaper, republish in Datawrapper, save to GitHub
