@@ -43,15 +43,18 @@ https://ontheline.github.io/otl-covenants/index-caption.html
 see working Google Sheet https://docs.google.com/spreadsheets/d/1RtxNexc0S8gZyZVimdwM0FO-kq8xPw3HMaP2Ku5a8KI/edit#gid=0
 
 ### East Hartford racist covenants notes
-- Bellew Terrace, 1929 deed by Terrence Shannon and Niels Wind with map 48 (Terry Rd, Wind Rd, Burnside Ave), ready to draw boundaries
-- Brookfield Village, 1940 deed (WAITING FOR COPY FROM DAVE) from August Schultz to Anna Fink, Volume 120, Page 241, with map 37, for 47 lots
-- Forest Village, 1939 deed (WAITING FOR DEED FROM DAVE) and maps 56, 75 expanded to 45 lots (Forbes St & Forest St), by Terrence Shannon and Sons, ready to draw boundaries
-- Knollwood Road, (even-numbered east side), 1941 deed from Richard J. Devitt to Arthur and Ruth Dinsmore for 64 Knollwood Road, with map 21 (Sunset Estates) also appears to show extent of Devitt's Knollwood property at the time. Ready to draw boundaries (BUT WAIT in case Dave finds better map); Devitt was EH GOP legislator in 1920s
-- Shannon Heights, 1938 deed by Terrence Shannon with early subdivision map 50 (Forbes St lots 1-3, Olaf Benson, 4-6, then lots 7-16); 1937 ad photo shows 3 recently completed and 3 under construction (which in Google Street view appear to be 541, 537, 533 Forbes St, on east side just south of Balsam Rd); 1938 news clip says building permits for 518, 522, 547 Forbes St. NEED clearer location. ASKED Dave to locate 1938 map W, which is not online
-- Stanley Street, 1926 deed with maps 36, 132 of "Property of Estate of Charles S. Barnes," bought by MJ Desmond Construction Company, Martin J. Desmond, around 73 Stanley St. No more details found in Newspapers.com search; ready to draw boundaries
-- Sunset Ridge, 1930 deed from Sunset Ridge Country Club to Jennie Higbie, for one parcel of land along Kennedy St (old name for Ridgewood Rd). "Causasian" restriction openly advertised in 1930-05-25 Courant, describing about 75 lots, but no clear map. ASKED DAVE to look for subdivision map because currently we can only estimate boundaries
-- Westview Drive, 1942 deed with map 73, Property of Richard J. Devitt (Ridgewood Rd, Westview Drive, Silver Lane), ready for Jack to draw boundaries, 25 plots
-- Willow Brook Gardens, 1941 deed (WAITING FOR COPY FROM DAVE), Volume 124, Page 383, with map 61, ready to draw boundaries
+- Bellew Terrace, 1929 deed by Terrence Shannon and Niels Wind with map 48 (Terry Rd, Wind Rd, Burnside Ave), sketched and ready to draw boundaries
+- Brookfield Village, 1940 deed (WAITING FOR COPY FROM DAVE) from August Schultz to Anna Fink, Volume 120, Page 241, with map 37, for 47 lots, sketched and ready to draw boundaries
+- Forest Village, 1939 deed (WAITING FOR DEED FROM DAVE) and maps 56, 75 expanded to 45 lots (Forbes St & Forest St), by Terrence Shannon and Sons, sketched and ready to draw boundaries (1940-11-22-HC reports 2 permits for Forest Village homes by T. Shannon on Hills St; 1940-09-15-HC refers to 50 lots in total)
+- Knollwood Road, (even-numbered east side), 1941 deed from Richard J. Devitt to Arthur and Ruth Dinsmore for 64 Knollwood Road, with map 21 (Sunset Estates) also appears to show extent of Devitt's Knollwood property at the time. Sketched and ready to draw boundaries (BUT WAIT in case Dave finds better map); Devitt was EH GOP legislator in 1920s
+- Shannon Heights, 1938 deed by Terrence Shannon with early subdivision map 50 (Forbes St lots 1-3, Olaf Benson, 4-6, then lots 7-16); 1937 ad photo shows 3 recently completed and 3 under construction (which in Google Street view appear to be 541, 537, 533 Forbes St, on east side just south of Balsam Rd); 1938 news clip says building permits for 518, 522, 547 Forbes St. NEED clearer location. ASKED Dave to locate 1938 map W, which is not online; 1940-03-17-HC says Shannon Heights nearly complete with 22 homes on 23 tracts
+- Stanley Street, 1926 deed with maps 36, 132 of "Property of Estate of Charles S. Barnes," bought by MJ Desmond Construction Company, Martin J. Desmond, around 73 Stanley St. No more details found in Newspapers.com search; sketched and ready to draw boundaries
+- Sunset Ridge, 1930 deed from Sunset Ridge Country Club to Jennie Higbie, for one parcel of land along Kennedy St (old name for Ridgewood Rd). "Causasian" restriction openly advertised in 1930-05-25 Courant, describing about 75 lots, but no clear map. ASKED DAVE to look for subdivision map because currently we can only estimate boundaries; 1949-05-01-HC story concludes that T. Shannon and Sons still have 18 lots to develop in Sunset Ridge area, site of the now-defunct Sunset Ridge Country Club
+- Westview Drive, 1942 deed with map 73, Property of Richard J. Devitt (Ridgewood Rd, Westview Drive, Silver Lane), sketched and ready for Jack to draw boundaries, 25 plots
+- Willowbrook Gardens, 1941 deed (WAITING FOR COPY FROM DAVE), Volume 124, Page 383, with map 61, sketched and ready to draw boundaries; 48 parcels on original map; some removed by CT Route 2
+
+### Terence P Shannon
+public records: age about 72; attorney in real estate appraisal, but no longer practicing?; formerly affiliated with Settle Meyer Law office in EH; resides at 502 Forbes St, EH; 860-568-5660 (landline?), 860-833-6538 (mobile?); see 1940-03-17-HC ad for 502 Forbes St; see current EH property card https://gis.easthartfordct.gov/PropertyCards/4513.pdf
 
 ### East Hartford search in-progress
 - Sunset Estates (odd-numbered west side of Knollwood, plus Birchwood), owned by Fred Holland, 1930 map 21; WAITING for Dave to search
